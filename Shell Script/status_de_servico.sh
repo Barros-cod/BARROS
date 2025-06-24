@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 echo "====================="
 echo " Verificando servido apache2... "
 sleep 2
